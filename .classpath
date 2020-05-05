@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JPU_Prosit4/Java-Prosit-4-master/Prosit4/src"/>
+	<classpathentry kind="lib" path="E:/X24/Nouveau dossier/Pro 3/showboard_2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/X24/Nouveau%20dossier/Pro%203/showboard.doc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="JPU_Prosit4/Java-Prosit-4-master/Prosit4/bin"/>
+</classpath>
